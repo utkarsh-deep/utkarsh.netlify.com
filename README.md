@@ -2,4 +2,4 @@
 
 <h3>Website Simple Exercise w/ HTML, CSS, JS.</h3>
 
-Live WebSite :<a href="utkarsh.netlify.com">utkarsh.netlify.com</a>
+Live WebSite :<a href="https://utkarshdeep.netlify.app/">utkarshdeep.netlify.com</a>
